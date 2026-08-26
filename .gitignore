@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+### dotenv ###
+.env
+
+### all database files ###
+*.bd
+*.sqlite3
+
+### Environments ###
+.venv
+
+__pycache__/
+*.pyc

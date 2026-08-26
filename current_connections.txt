@@ -1,0 +1,5 @@
+APP NEEDS NOW:
+PostgresSQl (Database)
+Alembic
+Mailtrap (For email notifications)
+Backblaze B2 (For cloud storage) - AWS from Amazon used in original version of project
