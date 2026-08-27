@@ -14,3 +14,4 @@ pwdlib[argon2]
 aiosmtplib
 boto3
 pillow
+jinja2
