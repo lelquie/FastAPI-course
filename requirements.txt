@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg[binary]
+aiosqlite
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+email-validator
+PyJWT
+pwdlib[argon2]
+aiosmtplib
+boto3
