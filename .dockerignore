@@ -1,3 +1,13 @@
+
+.git/
+
+tests/
+
+.python-version
+
+# Created by https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,visualstudiocode,dotenv
+
 ### dotenv ###
 .env
 
@@ -221,6 +231,3 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode,dotenv
-
-uv.lock
-pyproject.toml
